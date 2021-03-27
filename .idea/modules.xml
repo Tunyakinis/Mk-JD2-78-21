@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mk-JD2-78-21.iml" filepath="$PROJECT_DIR$/Mk-JD2-78-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work1/home_work1.iml" filepath="$PROJECT_DIR$/home_work1/home_work1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work2/home_work2.iml" filepath="$PROJECT_DIR$/home_work2/home_work2.iml" />
+    </modules>
+  </component>
+</project>
